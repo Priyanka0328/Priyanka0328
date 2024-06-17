@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Priyanka0328
-- 👀 I’m interested in .data science..
-- 🌱 I’m currently learning . python..
-- 💞️ I’m looking to collaborate on ... python developers
+- 👋 Hi, I’m Priyanka Thammanaboyina
+- 👀 I’m interested in data science and Frontend development..
+- 🌱 I’m good at Python,Html,Css and Sql
+-    I am currently learning frontend wed development with javascript and react.js..
+- 💞️ I’m looking to collaborate on ... data analyst and frontend web development..
 - 📫 How to reach me ... priyankaraj50721@gmail.com 
 
 <!---
